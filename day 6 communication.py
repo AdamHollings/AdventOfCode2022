@@ -7,11 +7,7 @@ Day 6 puzzle
 @author: adho3
 """
 
-from collections import namedtuple
-from itertools import zip_longest
-from pathlib import Path
 import os
-from typing import List
 
 print(os.getcwd())
 
